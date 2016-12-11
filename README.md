@@ -1,2 +1,2 @@
-# ExploreMandelbrotSetTutorial
-Details: https://abac00s-pl.blogspot.com/2016/01/fraktale-w-javascripcie-czesc-1.html
+### Explore Mandelbrot Set
+Small JavaScript script, which allows to explore the famous Mandelbrot Set. See it working [here](http://adambac.com/mandelbrot-explore).
